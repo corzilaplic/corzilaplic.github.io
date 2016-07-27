@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://corzilaplic.ro/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://corzilaplic.ro/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://corzilaplic.ro/collections/corzi-chitara-electrica.atom"/>
+  <title>corzi la plic.ro</title>
+  <updated>2016-01-16T00:45:00+02:00</updated>
+  <author>
+    <name>corzi la plic.ro</name>
+  </author>
+  <entry>
+    <id>http://corzilaplic.ro/products/3497773189</id>
+    <published>2016-01-16T00:45:00+02:00</published>
+    <updated>2016-01-16T00:45:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-daddario-nyxl-10-46"/>
+    <title>Corzi chitar&#x103; electric&#x103; D&apos;Addario NYXL 10-46</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-NYXL-E10.png?v=1452898392" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Gauges: 10-13-17-26-36-46<br></span></p>
+<p><span>Produse dintr-un aliaj de tip oțel carbon, sunt mai rezistente și urlă mai tare și mai bine decât orice set pe care l-ai încercat până acum!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3497773189</id>
+      <title>Default Title</title>
+      <s:price currency="RON">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3497774853</id>
+    <published>2016-01-16T00:45:00+02:00</published>
+    <updated>2016-01-16T00:45:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-daddario-nyxl-9-42"/>
+    <title>Corzi chitar&#x103; electric&#x103; D&apos;Addario NYXL 9-42</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-NYXL-E9.png?v=1452898444" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Gauges: 09-11-16-24-32-42<br></span></p>
+<p><span>Produse dintr-un aliaj de tip oțel carbon, sunt mai rezistente și urlă mai tare și mai bine decât orice set pe care l-ai încercat până acum!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3497774853</id>
+      <title>Default Title</title>
+      <s:price currency="RON">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943264261</id>
+    <published>2015-11-17T13:00:00+02:00</published>
+    <updated>2015-11-17T13:00:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-elixir-nanoweb-light-10-46"/>
+    <title>Corzi chitar&#x103; electric&#x103; Elixir Nanoweb Light 10-46</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Elixir-Nanoweb-E10.png?v=1447762233" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Elixir<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-13-17-26-36-46</p>
+<p>Anti-rust nickel plated steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943264261</id>
+      <title>Default Title</title>
+      <s:price currency="RON">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943255749</id>
+    <published>2015-11-17T12:59:00+02:00</published>
+    <updated>2015-11-17T12:59:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-ernie-ball-2221-regular-slinky-10-46"/>
+    <title>Corzi chitar&#x103; electric&#x103; Ernie Ball 2221 Regular Slinky 10-46</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>Ernie Ball</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Ernie-Ball-2221-E10.png?v=1447762256" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ernie Ball<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-13-17-26-36-46</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Nickel plated steel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943255749</id>
+      <title>Default Title</title>
+      <s:price currency="RON">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943250693</id>
+    <published>2015-11-17T12:58:00+02:00</published>
+    <updated>2015-11-17T12:58:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-daddario-exl110-regular-light-10-46"/>
+    <title>Corzi chitar&#x103; electric&#x103; D&apos;Addario EXL110 Regular Light 10-46</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-EXL110-E10.png?v=1447762210" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-13-17-26-36-46</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Nickel plated steel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943250693</id>
+      <title>Default Title</title>
+      <s:price currency="RON">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943241605</id>
+    <published>2015-11-17T12:57:00+02:00</published>
+    <updated>2015-11-17T12:57:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-elixir-nanoweb-super-light-9-42"/>
+    <title>Corzi chitar&#x103; electric&#x103; Elixir Nanoweb Super Light 9-42</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Elixir-Nanoweb-E9.png?v=1447762229" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Elixir<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 09-11-16-24-32-42</p>
+<p>Anti-rust nickel plated steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943241605</id>
+      <title>Default Title</title>
+      <s:price currency="RON">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943209029</id>
+    <published>2015-11-17T12:53:00+02:00</published>
+    <updated>2015-11-17T12:53:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-ernie-ball-2223-super-slinky-9-42"/>
+    <title>Corzi chitar&#x103; electric&#x103; Ernie Ball 2223 Super Slinky 9-42</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>Ernie Ball</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Ernie-Ball-2223-E9.png?v=1447762253" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ernie Ball<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 09-11-16-24-32-42</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Nickel plated steel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943209029</id>
+      <title>Default Title</title>
+      <s:price currency="RON">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943202565</id>
+    <published>2015-11-17T12:45:00+02:00</published>
+    <updated>2015-11-17T12:45:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-electrica-daddario-exl120-super-light-9-42"/>
+    <title>Corzi chitar&#x103; electric&#x103; D&apos;Addario EXL120 Super Light 9-42</title>
+    <s:type>Corzi chitar&#x103; electric&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-EXL120-E9.png?v=1447762201" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară electrică<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 09-11-16-24-32-42</p>
+<p>Nickel plated steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943202565</id>
+      <title>Default Title</title>
+      <s:price currency="RON">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

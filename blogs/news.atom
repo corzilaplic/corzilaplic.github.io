@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://corzilaplic.ro/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="http://corzilaplic.ro/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="http://corzilaplic.ro/blogs/news.atom"/>
+  <title>corzi la plic.ro - Nout&#x103;&#x21B;i</title>
+  <updated>2016-05-07T14:41:00+03:00</updated>
+  <author>
+    <name>corzi la plic.ro</name>
+  </author>
+  <entry>
+    <id>http://corzilaplic.ro/blogs/news/117111429-cum-sa-i-acordezi-chitara</id>
+    <published>2016-05-07T14:41:00+03:00</published>
+    <updated>2016-05-07T14:42:52+03:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/blogs/news/117111429-cum-sa-i-acordezi-chitara"/>
+    <title>Cum s&#x103;-&#x21B;i acordezi chitara</title>
+    <author>
+      <name>Gabi N</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>De la colegul nostru, Gabi, citire:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/mObTjyiPpMU" frameborder="0" allowfullscreen=""></iframe></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/blogs/news/69613701-am-pornit-la-drum</id>
+    <published>2015-11-27T04:24:00+02:00</published>
+    <updated>2015-11-27T04:28:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/blogs/news/69613701-am-pornit-la-drum"/>
+    <title>Am pornit la drum</title>
+    <author>
+      <name>Gabi N</name>
+    </author>
+    <summary type="html">
+      <![CDATA[După multe săptămâni de visat cu ochii deschiși, făcut planuri și căutat soluții, am reușit să urnim micul magazin din loc.
+<br>
+Să fie într-un ceas bun! :)<p><a class="read-more" href="http://corzilaplic.ro/blogs/news/69613701-am-pornit-la-drum">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[După multe săptămâni de visat cu ochii deschiși, făcut planuri și căutat soluții, am reușit să urnim micul magazin din loc.
+<br>
+Să fie într-un ceas bun! :)]]>
+    </content>
+  </entry>
+</feed>

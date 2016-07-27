@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://corzilaplic.ro/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://corzilaplic.ro/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://corzilaplic.ro/collections/corzi-chitara-acustica.atom"/>
+  <title>corzi la plic.ro</title>
+  <updated>2015-11-17T13:08:00+02:00</updated>
+  <author>
+    <name>corzi la plic.ro</name>
+  </author>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943330885</id>
+    <published>2015-11-17T13:08:00+02:00</published>
+    <updated>2015-11-17T13:08:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-elixir-nanoweb-custom-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; Elixir Nanoweb Custom Light 11-52</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Elixir-Nanoweb-A11.png?v=1447762242" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Elixir<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 11-15-22-32-42-52</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Anti-rust phosphor bronze</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943330885</id>
+      <title>Default Title</title>
+      <s:price currency="RON">66.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943325381</id>
+    <published>2015-11-17T13:07:00+02:00</published>
+    <updated>2015-11-17T13:07:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-ernie-ball-2148-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; Ernie Ball 2148 Light 11-52</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>Ernie Ball</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Ernie-Ball-2148-A11.png?v=1447762269" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ernie Ball<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 11-15-22-30-42-52</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Phosphor bronze</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943325381</id>
+      <title>Default Title</title>
+      <s:price currency="RON">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943320261</id>
+    <published>2015-11-17T13:07:00+02:00</published>
+    <updated>2015-11-17T13:07:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-daddario-ej26-custom-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; D&apos;Addario EJ26 Custom Light 11-52</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-EJ26-A11.png?v=1447762222" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 11-15-22-32-42-52</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Phosphor bronze</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943320261</id>
+      <title>Default Title</title>
+      <s:price currency="RON">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943314693</id>
+    <published>2015-11-17T13:06:00+02:00</published>
+    <updated>2015-11-17T13:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-elixir-nanoweb-extra-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; Elixir Nanoweb Extra Light 10-47</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Elixir-Nanoweb-A10.png?v=1447762237" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Elixir<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-14-23-30-39-47</p>
+<p>Anti-rust phosphor bronze</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943314693</id>
+      <title>Default Title</title>
+      <s:price currency="RON">66.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943299717</id>
+    <published>2015-11-17T13:04:00+02:00</published>
+    <updated>2015-11-17T13:04:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-ernie-ball-2150-extra-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; Ernie Ball 2150 Extra Light 10-50</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>Ernie Ball</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Ernie-Ball-2150-A10.png?v=1450132418" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ernie Ball<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-14-20-28-40-50</p>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><span>Phosphor bronze</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943299717</id>
+      <title>Default Title</title>
+      <s:price currency="RON">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/2943292357</id>
+    <published>2015-11-17T13:03:00+02:00</published>
+    <updated>2015-11-17T13:03:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/corzi-chitara-acustica-daddario-ej15-extra-light"/>
+    <title>Corzi chitar&#x103; acustic&#x103; D&apos;Addario EJ15 Extra Light 10-47</title>
+    <s:type>Corzi chitar&#x103; acustic&#x103;</s:type>
+    <s:vendor>D&apos;Addario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/DAddario-EJ15-A10.png?v=1447762219" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>D&#39;Addario<br>
+        <strong>Type: </strong>Corzi chitară acustică<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gauges: 10-14-23-30-39-47</p>
+<p>Phosphor bronze</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/2943292357</id>
+      <title>Default Title</title>
+      <s:price currency="RON">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

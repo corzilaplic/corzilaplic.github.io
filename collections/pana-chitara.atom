@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://corzilaplic.ro/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://corzilaplic.ro/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://corzilaplic.ro/collections/pana-chitara.atom"/>
+  <title>corzi la plic.ro</title>
+  <updated>2015-11-26T23:03:00+02:00</updated>
+  <author>
+    <name>corzi la plic.ro</name>
+  </author>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087635013</id>
+    <published>2015-11-26T23:03:00+02:00</published>
+    <updated>2015-11-26T23:03:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-planet-waves-1cap4"/>
+    <title>Pan&#x103; chitar&#x103; Planet Waves 1CAP4 0.7 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Planet Waves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Planet-Waves-1CAP4-070.png?v=1448571819" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Planet Waves<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.7 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087635013</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087628933</id>
+    <published>2015-11-26T23:02:00+02:00</published>
+    <updated>2015-11-26T23:02:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-dunlop-ultex"/>
+    <title>Pan&#x103; chitar&#x103; Dunlop Ultex 0.73 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Dunlop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Dunlop-Ultex-073.png?v=1448571775" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Dunlop<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.73 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087628933</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087624453</id>
+    <published>2015-11-26T23:01:00+02:00</published>
+    <updated>2015-11-26T23:01:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-dunlop-tortex-1-0"/>
+    <title>Pan&#x103; chitar&#x103; Dunlop Tortex 1.0 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Dunlop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Dunlop-Tortex-100.png?v=1448571739" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Dunlop<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1.0 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087624453</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087617477</id>
+    <published>2015-11-26T22:59:00+02:00</published>
+    <updated>2015-11-26T22:59:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-dunlop-tortex-0-73"/>
+    <title>Pan&#x103; chitar&#x103; Dunlop Tortex 0.73 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Dunlop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Dunlop-Tortex-073.png?v=1448571683" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Dunlop<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.73 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087617477</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087601093</id>
+    <published>2015-11-26T22:58:00+02:00</published>
+    <updated>2015-11-26T22:58:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-planet-waves-1ccg6-cellu-glo"/>
+    <title>Pan&#x103; chitar&#x103; fosforescent&#x103; Planet Waves 1CCG6 1.0 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Planet Waves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Planet-Waves-1CCG6-100.png?v=1448571550" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Planet Waves<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta http-equiv="content-type" content="text/html; charset=utf-8">1.0 mm<meta http-equiv="content-type" content="text/html; charset=utf-8"><span>, fosforescentă</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087601093</id>
+      <title>Default Title</title>
+      <s:price currency="RON">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://corzilaplic.ro/products/3087582149</id>
+    <published>2015-11-26T22:53:00+02:00</published>
+    <updated>2015-11-26T22:53:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="http://corzilaplic.ro/products/pana-chitara-planet-waves-1ccg4-cellu-glo"/>
+    <title>Pan&#x103; chitar&#x103; fosforescent&#x103; Planet Waves 1CCG4 0.7 mm</title>
+    <s:type>Pene chitar&#x103;</s:type>
+    <s:vendor>Planet Waves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1063/0726/products/Planet-Waves-1CCG4-070.png?v=1448571367" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Planet Waves<br>
+        <strong>Type: </strong>Pene chitară<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.7 mm, fosforescentă</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://corzilaplic.ro/products/3087582149</id>
+      <title>Default Title</title>
+      <s:price currency="RON">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
