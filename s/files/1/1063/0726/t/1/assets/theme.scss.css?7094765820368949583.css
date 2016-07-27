@@ -17,3 +17,13 @@
 .site-footer {
     display: none;
 }
+
+
+.site-nav > li {
+    padding: 15px;
+}
+
+
+.wrapper.main-content {
+    margin-bottom: 60px;
+}
